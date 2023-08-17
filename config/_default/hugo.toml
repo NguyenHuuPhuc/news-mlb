@@ -1,4 +1,4 @@
-baseurl = "https://news-mlb.netlify.app/"
+baseurl = "/"
 title = "Mainroad"
 languageCode = "en-us"
 # paginate = "10" # Number of posts per page
